@@ -1,7 +1,10 @@
 # C_Programing-
-This repository serves as a record of my progress as I learn C programming. My aim is to build a strong foundation in C, understanding its syntax, principles, and best practices.
+This repository serves as a record of my progress as I learn C programming. 
+
+I am aiming to build a strong foundation in C, understanding its syntax, principles, and best practices.
 
 Projects
+
 Here are some of the projects I've completed or am working on:
 
 Project Name: A brief description of the project.
