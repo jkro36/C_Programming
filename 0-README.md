@@ -9,10 +9,10 @@ Each project has its own directory with a README explaining the project and how 
 
 Here are some of the projects I've completed or am working on:
 
-Project Name:          A brief description of the project: 
-Hello World     -       The program consists of a single main() function that prints the "Hello, World" message in two different ways.
+Project #:     Project Name:            A brief description of the project: 
+01             HelloWorld       -       The program consists of a single main() function that prints the "Hello, World" message in two different ways.
+02             FahrToCelsTable  -       This program converts Fahrenheit temperatures to Celsius and prints a table of values. 
 
-Project Name: A brief description of the project.
 
 
 ##Exercises
